@@ -1,0 +1,8 @@
+# Ignore all macshit
+.DS_Store
+
+# Ignore data folder
+data/
+
+# Ignore monkeybusiness
+.monkeybusiness
